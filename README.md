@@ -4,13 +4,13 @@ This repository contains a collection of short Python projects that I have creat
 
 # Projects
 Here is a list of the projects in this repository:
-BMI Calculator - A simple calculator that calculates your Body Mass Index (BMI) based on your height and weight.
+bmi.py - A simple calculator that calculates your Body Mass Index (BMI) based on your height and weight.
 
-Detention Management System - A program that helps teachers and school administrators manage student detentions. It allows them to assign detentions, track student attendance, and generate reports.
+Detention.py - A program that helps teachers and school administrators manage student detentions. It allows them to assign detentions, track student attendance, and generate reports.
 
-Grades Management System - A program that allows teachers to manage student grades. It enables them to add students, create assignments, record grades, and generate reports.
+Grades.py - A program that allows teachers to manage student grades. It enables them to add students, create assignments, record grades, and generate reports.
 
-Guess the Number - A game where the computer generates a random number, and the user has to guess the number within a certain number of attempts. The game provides hints and feedback to help the user make their guesses.
+Guess_number.py - A game where the computer generates a random number, and the user has to guess the number within a certain number of attempts. The game provides hints and feedback to help the user make their guesses.
 
 Currency.py - A Python program that performs currency conversion. It allows users to input an amount in one currency and converts it to another currency based on the current exchange rate.
 
