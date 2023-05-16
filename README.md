@@ -12,6 +12,14 @@ Grades Management System - A program that allows teachers to manage student grad
 
 Guess the Number - A game where the computer generates a random number, and the user has to guess the number within a certain number of attempts. The game provides hints and feedback to help the user make their guesses.
 
+Currency.py - A Python program that performs currency conversion. It allows users to input an amount in one currency and converts it to another currency based on the current exchange rate.
+
+Hypotenuse.py - A Python program that calculates the hypotenuse of a right-angled triangle. Users can input the lengths of the two shorter sides, and the program uses the Pythagorean theorem to calculate the length of the hypotenuse.
+
+Magic8.py - A Python program that simulates a Magic 8-Ball. It randomly generates and displays answers to yes-or-no questions. Users can input their questions, and the program provides a random response, as if consulting a Magic 8-Ball.
+
+pH_Levels.py - A Python program that determines the pH level of a substance. Users can input the pH value, and the program provides information on whether the substance is acidic, neutral, or alkaline, based on predefined pH ranges.
+
 
 # Getting Started
 To use these Python projects, follow these simple steps:
